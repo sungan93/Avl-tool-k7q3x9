@@ -1,0 +1,25 @@
+{
+ "schema": 1,
+ "items": {
+  "sha": "e4cc2a6fa707648cc18729ca66a27245bd04012a0527a5cb5f36b79c47c912a3",
+  "size": 197933,
+  "url": "https://sungan93.github.io/Avl-tool-k7q3x9/items.json"
+ },
+ "photos": {
+  "sha": "34425b67297d2099ccd6d97395953d3821701ef5b41fc15a10bc60e4cef2863e",
+  "size": 59951081,
+  "url": "https://sungan93.github.io/Avl-tool-k7q3x9/photos.zip"
+ },
+ "exe": {
+  "build": 3,
+  "sha": "cf45e4bc4882bf08cd2b9f40543eae08a026285a65a871a4984dad3e2759ed6b",
+  "size": 80384,
+  "url": "https://sungan93.github.io/Avl-tool-k7q3x9/AVL-Tool-Inventory.exe"
+ },
+ "vehicles": {
+  "sha": "c09f3fe09e03d1bb69d961b0b5a7994a47ebbbb208b48d1de864caada9f8ba92",
+  "size": 10403,
+  "url": "https://sungan93.github.io/Avl-tool-k7q3x9/vehicles.json"
+ },
+ "published": "2026-11-06T17:32:56.000Z"
+}
